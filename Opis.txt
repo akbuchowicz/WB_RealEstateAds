@@ -1,0 +1,9 @@
+Projekt wygląda następująco:
+1. Ekstrakcja wartości z kolumny params -> powstała ramka danych extracted_data, notatnik ParamsExtraction
+Marcin Ostrowski
+2. Użycie BerTopic do ekstrakcji Topic'ów z kolumny description -> powstała ramka danych desc_topic, notatnik BerTopic
+Julita Kulesza
+3. Połączenie ramek, przekształcenie współrzędnych geograficznych oraz detekcja outlierów -> powstała ramka danych PrzefiltrowanaRamka, notatnik RealEstate_EDA(1)
+Aleksandra Buchowicz
+4. Utworzenie i wytrenowanie modeli - notatnik models
+Filip Pazio
